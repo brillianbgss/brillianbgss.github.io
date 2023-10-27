@@ -1,0 +1,23 @@
+.navbar {
+  font-family: "Times New Roman", Times, serif;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-image: url(img/wallpaperflare.com_wallpaper.jpg);
+  font-family: "Times New Roman", Times, serif;
+}
+
+#about {
+  background-color: rgb(10, 216, 113);
+  font-family: "Times New Roman", Times, serif;
+}
+
+#projects {
+  background-image: url(img/supra.jpg);
+  font-family: "Times New Roman", Times, serif;
+}
+
+section {
+  padding-top: 5rem;
+}
